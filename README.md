@@ -42,7 +42,7 @@ The [original repository](https://github.com/anwesanpal/SAGENet_demo) also conta
  python webcam_attention_estimation.py
  ```
  
-# Inference video Example](https://youtu.be/I-tZNb7tBBw) 
+# Inference video Example: https://youtu.be/I-tZNb7tBBw
  ![SAGENet Driver Attention Estimation Pytorch](https://github.com/ibaiGorordo/Pytorch-SAGENet-Driver-Attention-Estimation/blob/main/doc/img/sagenet-attention-heatmap.gif)
 
 *Original video: https://youtu.be/bUhFfunT2ds*
