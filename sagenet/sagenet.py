@@ -49,6 +49,8 @@ class SAGENet():
 
 		# Process output data
 		self.heatmap = self.process_output(outputs)
+		
+		return self.heatmap
 
 	def prepare_input(self, img):
 
